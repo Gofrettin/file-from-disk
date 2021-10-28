@@ -36,3 +36,5 @@ bool utils::ReadFileToMemory(const std::string& file_path, std::vector<uint8_t>*
 	return true;
 }
 ```
+
+**Credits: unrealuser#0001**
