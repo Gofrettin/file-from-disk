@@ -1,9 +1,6 @@
-# bytes-streaming
 
-simple bytes "streaming" if we can call it like that, i made.
-That's totally not protected from dumpers, so please do not use it for make a P2C
 
-i made it by a simple creating file from memory, and streaming it.
+i made it by a simple creating file from memory, and streaming it. (hex)
 
 ```cpp
 bool utils::CreateFileFromMemory(const std::string& desired_file_path, const char* address, size_t size)
